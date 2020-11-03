@@ -1,5 +1,6 @@
+
 <param ve-config
-       title="Cork's Historical Insights on Sustainable Agriculture"
+       title="The Mystery of the Disappearing Cork"
  banner="https://cdn.pixabay.com/photo/2017/02/22/12/10/bark-2089279_1280.jpg"
        layout="vtl"
        num-maps="x"
@@ -11,6 +12,18 @@
 <param title="Beatrix Farrand" eid="Q437714">
 <param title="cherry blossom" eid="Q871991">
 <param title="Dumbarton Oaks" eid="Q1264942" aliases="DO">
+
+## Typification of the Cork Oaks
+When Carl Linnaeus sought to classify the cork oak tree, first in his taxonomic system for plants, published in 1753 as Species Plantarum, and then in the comprehensive 1758 Systema Naturae, he needed a specimen to typify the plant.  As he did for most of his research, Linnaeus sent one of his so-called disciples, in this case Swedish botanist Pehr Löfling, to Spain to collect a cork tree branch. (Löfling did not have to travel to as remote a location as some of the other disciples did for specimens. The tree only flourishes in areas of the western Mediterranean, which produces the vast majority of cork today – Portugal alone produces about half of the world’s cork annually. 
+<param title="Pehr Löfling" eid="Q714748">
+<param title="Systema Natura" eid="Q29270">
+<param title="Species Plantarum" eid="Q849308">
+<param title="Carl Linnaeus" eid="Q1043" aliases="Linnaeus">
+
+## Producing Cork
+Placeholder text for talking about cork production.
+<param ve-storiiies id="b61dq">
+
 
 ## Subtitle
 Code to add a location with a custom marker on a map for every paragraph in this section.
